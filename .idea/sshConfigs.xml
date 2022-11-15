@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="10.12.86.188" id="ce4ec1f8-b5fb-4c8b-acdb-5ab0b624afca" port="610" nameFormat="DESCRIPTIVE" username="HwHiAiUser" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
